@@ -26,7 +26,7 @@ class HumiditySensor(Sensor):
     def get_data(self):
         return random.uniform(0, 200)
      
-
+     
 class PressureSensor(Sensor):
     def __init__(self, type):
         super().__init__(type)
