@@ -1,0 +1,2 @@
+2024-02-26 11:02:24,899 - WARNING - Alert received: {'sensor': 'HumiditySensor', 'data': 104.2670393946185}
+2024-02-26 11:02:29,912 - WARNING - Alert received: {'sensor': 'PressureSensor', 'data': 688.3874481461826}
